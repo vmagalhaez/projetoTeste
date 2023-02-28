@@ -1,0 +1,1 @@
+o professor está ensinando como mandar do repositorio para a maquina, atraves do comando pull
